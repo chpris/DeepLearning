@@ -1,6 +1,1 @@
-
-DNN implementation using TensorFlow:
-
-> MNIST Classficiation
-
-> Denoising audio files
+Assignments from Deep Learning 
